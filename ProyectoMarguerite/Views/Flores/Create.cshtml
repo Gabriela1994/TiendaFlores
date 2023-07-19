@@ -1,0 +1,63 @@
+﻿@model ProyectoMarguerite.Models.ViewModels.FloresViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_Layout";
+}
+
+
+<!--Seccion 1, Cargar flores-->
+    <div class="presentacion">
+        <h2>Cargar flores</h2>
+    </div>
+<section class="Form-cargar">
+    <div>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="formulario-crear">
+                <ul>
+                    <label asp-for="Nombre"></label>
+                    <input placeholder="Nombre de la flor" asp-for="Nombre"/>
+                    <span asp-validation-for="Nombre"></span>
+                </ul>
+            </div>
+
+            <div class="formulario-crear">
+                <ul>
+                        <label asp-for="Precio"></label>
+                        <input placeholder="$" asp-for="Precio" />
+                        <span asp-validation-for="Precio"></span>
+                </ul>
+            </div>
+
+            <div class="formulario-crear">
+                <ul>
+                    <label asp-for="Id_especie" class="control-label"></label>
+                    <input placeholder="Especie de la flor" asp-for="Id_especie" class="form-control" />
+                    <span asp-validation-for="Id_especie" class="text-danger"></span>
+                </ul>
+            </div>
+            <div class="formulario-crear">
+                <ul>
+                    <label asp-for="Id_color" class="control-label"></label>
+                    <input placeholder="Color de la flor" asp-for="Id_color" class="form-control" />
+                    <span asp-validation-for="Id_color" class="text-danger"></span>
+                </ul>
+            </div>
+
+            <div class="formulario-crear">
+                <ul>
+                    <label asp-for="Descripcion"></label>
+                    <textarea cols="10" rows="5" placeholder="Descripcion" class="descripcion" asp-for="Descripcion"></textarea>
+                    <span asp-validation-for="Descripcion"></span>
+
+                </ul>
+            </div>
+            <div class="formulario-crear">
+                <a asp-action="Index">Atrás</a>
+                <input class="btn-aceptar"  type="submit" value="Create" />
+            </div>
+        </form>
+    </div>
+</section>
+

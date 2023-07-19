@@ -1,0 +1,413 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    color: black;
+    padding: 0px 20px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+header {
+    display: flex;
+    min-height: 70px;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    border:double;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+nav a:hover {
+    color: #FCAEAE;
+}
+
+@media (max-width:700px) {
+    header {
+        flex-direction: column;
+    }
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+}
+.inicio {
+    height: 400px;
+    width: 100%;
+    background-color: white;
+    display:flex;
+    padding: 20px;
+}
+.hero {
+    height: 450px;
+    width: 100%;
+    background-color: transparent;
+    background-image: url(../images/chicaflor.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.textos-hero {
+    height: 500px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textos-hero h1 {
+    font-size: 80px;
+    font-family: 'Kaushan Script', cursive;
+    color: #FFEADD;
+}
+
+.textos-hero p {
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    font-weight:600;
+    color: #FFEADD;
+}
+
+    .textos-hero a {
+        display: inline-block;
+        text-decoration: none;
+        padding-top: 4px;
+        padding: 4px 10px;
+        margin: 30px;
+        font-family: 'Cabin', sans-serif;
+        font-size: 20px;
+        border: double;
+        color: #FFEADD;
+        font-weight: 600;
+        transition: all .5s ease;
+        transform: scale(0.9)
+    }
+
+    .textos-hero a:hover {
+        color: #FCAEAE;
+        transform:scale(1.1);
+    }
+
+
+.svg-hero {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+/*Inicio seccion 2*/
+.seccion-2 {
+    padding: 8% 6%;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloque-izquierdo {
+    width: 35%;
+    height: 99%;
+    background-color: transparent;
+    position:relative;
+}
+
+.izq-img {
+    width: 100%;
+}
+.izq-img img {
+    position: absolute;
+    width: 100%;
+    height: 74vh;
+    min-height: 70%;
+    border:double;
+}
+.izq-img img:hover{
+    
+}
+
+.bloque-derecho {
+    background-color: white;
+    width: 50%;
+    height: 99%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.der-titulo {
+    text-align: center;
+}
+
+.der-titulo h2 {
+    color: black;
+    font-size: 50px;
+    padding-bottom:20px;
+}
+
+    .der-titulo a {
+        padding: 10px 10px;
+        text-align: center;
+        color: black;
+        border: double;
+    }
+
+    .der-titulo a:hover {
+        color: #FCAEAE;
+    }
+
+/*Bloque de animacion de los h1*/
+.animate__animated.animate__zoomInRight {
+    animation: zoomInRight;
+    animation-duration: 3s;
+}.animate__animated.animate__zoomInLeft {
+    animation: zoomInLeft;
+    animation-duration: 7s;
+}
+
+/*Inicio seccion 3*/
+
+.seccion-3 {
+    padding: 0px 6%;
+    background-color: white;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloque-izquierdo2 {
+    background-color: white;
+    width: 35%;
+    height: 93%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.izq-titulo2 {
+    text-align: center;
+}
+
+    .izq-titulo2 h2 {
+        color: black;
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+
+    .izq-titulo2 a {
+        padding: 10px 10px;
+        text-align: center;
+        color: black;
+        border: double
+    }
+
+    .izq-titulo2 a:hover {
+        color: #FCAEAE;
+    }
+
+.bloque-derecho2 {
+    background-color: aquamarine;
+    width: 50%;
+    height: 74%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.der-img2 {
+    width: 100%;
+}
+
+    .der-img2 img {
+        position: relative;
+        width: 100%;
+        height: 74vh;
+        min-height: 70%;
+    }
+/*Inicio footer*/
+
+.footer-final {
+    width: 100%;
+    height: 400px;
+    margin-top:20%;
+    background-color: red;
+    flex-direction: column;
+}
+.izquierda {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.social {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: aqua;
+}
+.social-2 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: yellow;
+}
+/*Final footer*/
+
+
+.presentacion {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 2%;
+}
+.Form-cargar {
+    margin-top: 0%;
+    height: 600px;
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-image: url('../images/daisies-g0636672d5_1920.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:double;
+    border-color: white;
+}
+.formulario-crear {
+    width: 40vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    padding: 10px;
+
+}
+    .formulario-crear label {
+        display: block; /* Ahora los inputs quedan debajo de los label */
+        padding: 2px; /* Separando espacios internos */
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Cabin', sans-serif;
+        text-align:left;
+        color: gold
+    }
+
+    .formulario-crear li {
+        margin: 8px; /* dando márgenes a todos los elementos de la lista */
+    }
+
+input, textarea {
+    padding: 5px; /* Separamos la letra del interior (contenido) en los inputs de los bordes */
+    border-color: transparent;
+    border-radius: 9px;
+    color: black;
+    font-weight: bold;
+    font-size:15px;
+    box-shadow: 5px 5px 10px #666;
+}
+
+.btn-aceptar {
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    border: double;
+    border-color: white;
+    border-radius: 9px;
+    background-color: burlywood;
+    font-weight: 300;
+    transition: all.3s ease;
+    transform: scale(0.9);
+    box-shadow: 5px 5px 10px #666;
+}
+.formulario-crear input:hover {
+    transform:scale(1)
+}
+
+.formulario-crear a {
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    border: double;
+    border-color: white;
+    border-radius: 9px;
+    background-color: cornflowerblue;
+    font-weight: 300;
+    transition: all.3s ease;
+    transform: scale(0.9);
+    box-shadow: 5px 5px 10px #666;
+}
+
+.formulario-crear a:hover {
+    color: white;
+    transform: scale(1)
+}
+
+.descripcion {
+    background-color: white;
+    height: 98px;
+    width: 210px
+}

@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoMarguerite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoMarguerite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\affair-g6c0c99403_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\affair-g6c0c99403_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\bouquet-g81ede93c5_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\bouquet-g81ede93c5_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\chamomile-g167f72fd0_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\chamomile-g167f72fd0_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\chicaflor.jpg",
+      "PackagePath": "staticwebassets\\images\\chicaflor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\daisies-g0636672d5_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\daisies-g0636672d5_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\daisies-gd45abcbc0_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\daisies-gd45abcbc0_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\descarga.png",
+      "PackagePath": "staticwebassets\\images\\descarga.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\descuentos.mp4",
+      "PackagePath": "staticwebassets\\images\\descuentos.mp4"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flores 2.jpg",
+      "PackagePath": "staticwebassets\\images\\flores 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flores1.jpg",
+      "PackagePath": "staticwebassets\\images\\flores1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\floresboda.jpg",
+      "PackagePath": "staticwebassets\\images\\floresboda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\floresboda2.jpg",
+      "PackagePath": "staticwebassets\\images\\floresboda2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flower-g67baea190_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\flower-g67baea190_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flower-g6ad2099a1_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\flower-g6ad2099a1_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flowers-g79d766bf1_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\flowers-g79d766bf1_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\flowers-gea6925fc4_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\flowers-gea6925fc4_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\girasol.jpg",
+      "PackagePath": "staticwebassets\\images\\girasol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\hydrangea-g6e33a18ed_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\hydrangea-g6e33a18ed_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\lavanda.jpg",
+      "PackagePath": "staticwebassets\\images\\lavanda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\linea.png",
+      "PackagePath": "staticwebassets\\images\\linea.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\margarita.jpg",
+      "PackagePath": "staticwebassets\\images\\margarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\margarita.png",
+      "PackagePath": "staticwebassets\\images\\margarita.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\margaritas.jpg",
+      "PackagePath": "staticwebassets\\images\\margaritas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\pngegg (9).png",
+      "PackagePath": "staticwebassets\\images\\pngegg (9).png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\pngegg.png",
+      "PackagePath": "staticwebassets\\images\\pngegg.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\prueba.png",
+      "PackagePath": "staticwebassets\\images\\prueba.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\prueba2.jpg",
+      "PackagePath": "staticwebassets\\images\\prueba2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\prueba3.png",
+      "PackagePath": "staticwebassets\\images\\prueba3.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\prueba4.png",
+      "PackagePath": "staticwebassets\\images\\prueba4.png"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\ramoSurtido.jpg",
+      "PackagePath": "staticwebassets\\images\\ramoSurtido.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\ramobodasurtido.jpg",
+      "PackagePath": "staticwebassets\\images\\ramobodasurtido.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\ramodebodas.jpg",
+      "PackagePath": "staticwebassets\\images\\ramodebodas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\rosas.jpg",
+      "PackagePath": "staticwebassets\\images\\rosas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\sunflowers-g50b77a98b_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\sunflowers-g50b77a98b_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\images\\wedding-bouquet-on-the-swing-g6ccd70389_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\wedding-bouquet-on-the-swing-g6ccd70389_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootbox\\bootbox.all.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.all.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootbox\\bootbox.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoMarguerite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProyectoMarguerite.props",
+      "PackagePath": "build\\ProyectoMarguerite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoMarguerite.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoMarguerite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProyectoMarguerite.props",
+      "PackagePath": "buildTransitive\\ProyectoMarguerite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
