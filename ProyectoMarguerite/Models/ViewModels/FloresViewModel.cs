@@ -6,15 +6,12 @@ namespace ProyectoMarguerite.Models.ViewModels
     public class FloresViewModel
     {
 
-        [Required(ErrorMessage = "Este campo no puede estar vacio")]
-        [StringLength(50)]
-        [DisplayName("Nombre")]
-        public string Nombre { get; set; }
+        public int? Id{ get; set; }
 
         [StringLength(400)]
         public string Descripcion { get; set; }
 
-        public double Precio { get; set; }
+        public decimal Precio { get; set; }
 
         [DisplayName("Especie")]
         [Required(ErrorMessage = "Este campo no puede estar vacio")]
@@ -23,5 +20,9 @@ namespace ProyectoMarguerite.Models.ViewModels
         [DisplayName("Color")]
         [Required(ErrorMessage = "Este campo no puede estar vacio")]
         public int Id_color { get; set; }
+
+
+        public string? Especie { get; set; }
+        public string? Color { get; set; }
     }
 }

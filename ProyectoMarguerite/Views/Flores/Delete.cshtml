@@ -1,0 +1,19 @@
+﻿@model ProyectoMarguerite.Models.ViewModels.FloresViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="presentacion">
+    <h3>¿Estás seguro que quieres eliminar este registro?</h3>
+</div>
+
+<div class="row">
+    <form class ="row" asp-action="Delete">
+
+    <div class="formulario-btn">
+        <a asp-action="ListaFlores">Volver al listado</a>
+        <input type="submit" value="Eliminar" class="btn-delete" />
+    </div>
+    </form>
+</div>

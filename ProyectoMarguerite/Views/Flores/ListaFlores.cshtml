@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ProyectoMarguerite.Models.ViewModels.FloresViewModel>
+
+@{
+    ViewData["Title"] = "ListaFlores";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="presentacion">
+    <h2>Lista de flores disponibles</h2>
+</div>
+<section class="Form-listar">
+    <div class="container-list">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Especie)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Color)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Precio)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Descripcion)
+                    </th>
+                    <th>
+                        Manejo de acciones
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Especie)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Color)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Precio)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Descripcion)
+                        </td>
+                        <td class="container-btn">
+                            @Html.ActionLink("Editar", "Edit", new {  id=item.Id }, new {@class = "btn-edit" })
+                        </td>
+                        <td class="container-btn">
+                            @Html.ActionLink("Detalle", "Details", new {  id=item.Id }, new {@class = "btn-details"})
+                        </td>
+                        <td class="container-btn">
+                            @Html.ActionLink("Eliminar", "Delete", new {  id=item.Id }, new {@class = "btn-delete"})
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="presentacion">
+        <a asp-action="Create">Crear nueva</a>
+    </div>
+</section>

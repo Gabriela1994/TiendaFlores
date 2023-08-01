@@ -1,0 +1,38 @@
+﻿@model ProyectoMarguerite.Models.ViewModels.FloresViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="presentacion">
+    <h2>Modificar una flor</h2>
+</div>
+
+@*<hr />*@
+
+<div class="row">
+    <div class="formulario-crear">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+            <br />
+        </form>
+    </div>
+            <div class="formulario-btn">
+                <a asp-action="ListaFlores">Volver al listado</a>
+                <input type="submit" value="Editar" class="btn-aceptar" />
+            </div>
+
+</div>
+
+

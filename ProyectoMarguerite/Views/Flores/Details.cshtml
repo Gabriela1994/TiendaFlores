@@ -1,0 +1,49 @@
+﻿@model ProyectoMarguerite.Models.ViewModels.FloresViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="presentacion">
+    <h2>Detalle de una flor</h2>
+</div>
+
+<div class="row">
+
+
+    <div class="bloque-derecho">
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Precio)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Precio)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Id_especie)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id_especie)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Id_color)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id_color)
+            </dd>
+        </dl>
+    </div>
+</div>
+<div class="row">
+    <div class="formulario-btn">
+        <a asp-action="ListaFlores">Volver al listado</a>
+        @Html.ActionLink("Editar", "Edit", new {  id = Model.Id }, new {@class = "btn-edit" })
+    </div>
+</div>

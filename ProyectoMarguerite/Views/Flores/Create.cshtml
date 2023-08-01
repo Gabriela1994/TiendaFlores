@@ -7,55 +7,70 @@
 
 
 <!--Seccion 1, Cargar flores-->
-    <div class="presentacion">
-        <h2>Cargar flores</h2>
-    </div>
+<div class="presentacion">
+    <h2>Cargar flores</h2>
+</div>
 <section class="Form-cargar">
     <div>
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
             <div class="formulario-crear">
                 <ul>
-                    <label asp-for="Nombre"></label>
-                    <input placeholder="Nombre de la flor" asp-for="Nombre"/>
-                    <span asp-validation-for="Nombre"></span>
+                    <label class="control-label">Nombre de la flor</label>
+                    <select class="form-select" asp-for="Id_especie">
+                        <option selected>Selecciona el nombre</option>
+                        <option value="8">Clavel</option>
+                        <option value="14">Crisantemo</option>
+                        <option value="12">Gardenia</option>
+                        <option value="3">Girasol</option>
+                        <option value="6">Hortensia</option>
+                        <option value="11">Jazmin</option>
+                        <option value="9">Lavanda</option>
+                        <option value="7">Lirio</option>
+                        <option value="5">Margarita</option>
+                        <option value="10">Nardo</option>
+                        <option value="4">Orquidea</option>
+                        <option value="1">Rosa</option>
+                        <option value="2">Tulipan</option>
+                        <span asp-validation-for="Id_especie" class="text-danger"></span>
+                    </select>
+                </ul>
+            </div>
+            <div class="formulario-crear">
+                <ul>
+                    <label class="control-label">Color de la flor</label>
+                    <select class="form-select" asp-for="Id_color">
+                        <option selected>Selecciona un color</option>
+                        <option value="3">Amarillo</option>
+                        <option value="4">Blanco</option>
+                        <option value="5">Naranja</option>
+                        <option value="2">Rojo</option>
+                        <option value="7">Rosado</option>
+                        <option value="6">Verde</option>
+                        <option value="1">Violeta</option>
+                        <span asp-validation-for="Id_color" class="text-danger"></span>
+                    </select>
+                </ul>
+            </div>
+            <div class="formulario-crear">
+                <ul>
+                    <label asp-for="Precio" class="control-label"></label>
+                    <input placeholder="Precio" asp-for="Precio" class="form-control" />
+                    <span asp-validation-for="Precio" class="text-danger"></span>
                 </ul>
             </div>
 
             <div class="formulario-crear">
                 <ul>
-                        <label asp-for="Precio"></label>
-                        <input placeholder="$" asp-for="Precio" />
-                        <span asp-validation-for="Precio"></span>
-                </ul>
-            </div>
-
-            <div class="formulario-crear">
-                <ul>
-                    <label asp-for="Id_especie" class="control-label"></label>
-                    <input placeholder="Especie de la flor" asp-for="Id_especie" class="form-control" />
-                    <span asp-validation-for="Id_especie" class="text-danger"></span>
-                </ul>
-            </div>
-            <div class="formulario-crear">
-                <ul>
-                    <label asp-for="Id_color" class="control-label"></label>
-                    <input placeholder="Color de la flor" asp-for="Id_color" class="form-control" />
-                    <span asp-validation-for="Id_color" class="text-danger"></span>
-                </ul>
-            </div>
-
-            <div class="formulario-crear">
-                <ul>
-                    <label asp-for="Descripcion"></label>
-                    <textarea cols="10" rows="5" placeholder="Descripcion" class="descripcion" asp-for="Descripcion"></textarea>
+                    <label asp-for="Descripcion" class="control-label"></label>
+                    <textarea rows="7" style="height:70%" placeholder="Descripcion de la flor" class="form-control" asp-for="Descripcion"><</textarea>
                     <span asp-validation-for="Descripcion"></span>
-
                 </ul>
             </div>
-            <div class="formulario-crear">
+            <div class="formulario-btn">
                 <a asp-action="Index">Atrás</a>
-                <input class="btn-aceptar"  type="submit" value="Create" />
+                <input class="btn-aceptar" type="submit" value="Create" />
             </div>
         </form>
     </div>

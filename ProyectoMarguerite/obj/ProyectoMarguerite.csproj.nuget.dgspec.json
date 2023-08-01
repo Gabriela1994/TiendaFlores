@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\ProyectoMarguerite.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\proyecto marguerite\\ProyectoMarguerite\\ProyectoMarguerite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\ProyectoMarguerite.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\proyecto marguerite\\ProyectoMarguerite\\ProyectoMarguerite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\ProyectoMarguerite.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Escritorio\\proyecto marguerite\\ProyectoMarguerite\\ProyectoMarguerite.csproj",
         "projectName": "ProyectoMarguerite",
-        "projectPath": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\ProyectoMarguerite.csproj",
-        "packagesPath": "C:\\Users\\teresita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teresita\\Desktop\\proyecto marguerite MVC\\ProyectoMarguerite\\obj\\",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\proyecto marguerite\\ProyectoMarguerite\\ProyectoMarguerite.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\proyecto marguerite\\ProyectoMarguerite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\teresita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +47,11 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.14, )"
+              "version": "[6.0.15, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -76,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
